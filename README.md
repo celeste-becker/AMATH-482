@@ -5,8 +5,6 @@ This class covered exploratory and objective data analysis methods applied to th
 ## Repository Description: 
 This repository contains the homework projects for AMATH 482. Each folder contains: the homework specification, the final report, and code for the project. 
 
-## Repository Description:
-
 #### HW 1:
 Given a noisy Ultrasound dataset, the goal of this problem is to determine the frequency
 signature of a marble, its trajectory, and its location at any point in time.
