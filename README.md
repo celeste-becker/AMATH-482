@@ -37,7 +37,7 @@ be able to tell what dimension the motion of the mass is in.
 
 
 
-### HW 4: Machine Learning
+### HW 4: Music Classification
 The objective of this homework is to explore the basics of machine learning by writing code that
 can classify a song by what genre it is using a five second sample clip. To program the classifier,
 we will use spectrograms, Principal Component Analysis, (PCA) and Linear Discriminant Analysis
