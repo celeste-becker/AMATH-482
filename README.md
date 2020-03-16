@@ -2,7 +2,7 @@
 
 This class covered exploratory and objective data analysis methods applied to the physical, engineering, and biological sciences. Brief review of statistical methods and their computational implementation for studying time series analysis, spectral analysis, filtering methods, principal component analysis, orthogonal mode decomposition, and image processing and compression.
 
-This repository contains the homework projects for AMATH 482. Each folder contains: the homework specification, the final report, and code for the project. The textbook refrenced in the reports is Data-Driven Modeling & Scientific Computation: Methods for Complex Systems & Big Data by J. Nathan Kutz.
+This repository contains the homework projects for AMATH 482. Each folder contains: the homework specification, the final report, and code for the project. The textbook reference in the reports is Data-Driven Modeling & Scientific Computation: Methods for Complex Systems & Big Data by J. Nathan Kutz.
 
 
 ### HW 1: Fourier Transforms
