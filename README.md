@@ -5,7 +5,7 @@ This class covered exploratory and objective data analysis methods applied to th
 This repository contains the homework projects for AMATH 482. Each folder contains: the homework specification, the final report, and code for the project. The textbook refrenced in the reports is Data-Driven Modeling & Scientific Computation: Methods for Complex Systems & Big Data by J. Nathan Kutz.
 
 
-### HW 1: Fourier Analysis ([link][1])
+### HW 1: Fourier Transforms ([link][1])
 Given a noisy Ultrasound dataset, the goal of this problem is to determine the frequency
 signature of a marble, its trajectory, and its location at any point in time.
 The original noisy data is in the spatial domain. Using Fourier transforms to convert the data
@@ -52,4 +52,4 @@ different classes of fashion items. In part one we will build a classifier using
 neural network, and in part two we will use convolutional neural network. Then we will use the
 results from each to compare their accuracy.
 
-[1]: HW1: Fourier Analysis/
+[1]: HW1: Fourier Transforms/
